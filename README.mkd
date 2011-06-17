@@ -1,0 +1,10 @@
+This is a small presenation that I've made about pylab, numpy, scipy and ipython.
+
+It just scratch the surface, but maybe it is interesting.
+
+The presentation is also uploaded here.
+http://www.slideshare.net/mattions/scipy-numpy-and-friends
+
+You can have fun and play with it.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Scipy, Numpy and friends.</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.slideshare.net/mattions/scipy-numpy-and-friends" property="cc:attributionName" rel="cc:attributionURL">Michele Mattioni</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/mattions" rel="cc:morePermissions">https://github.com/mattions</a>.
