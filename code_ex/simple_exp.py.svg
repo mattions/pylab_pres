@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<g font-family="monospace" font-size="14px">
+<text x="0" y="14" xml:space="preserve"><tspan fill="#008000" font-weight="bold">import</tspan>&#160;<tspan fill="#0000FF" font-weight="bold">numpy</tspan>&#160;<tspan fill="#008000" font-weight="bold">as</tspan>&#160;<tspan fill="#0000FF" font-weight="bold">np</tspan></text>
+<text x="0" y="33" xml:space="preserve"><tspan fill="#008000" font-weight="bold">import</tspan>&#160;<tspan fill="#0000FF" font-weight="bold">scipy</tspan>&#160;<tspan fill="#008000" font-weight="bold">as</tspan>&#160;<tspan fill="#0000FF" font-weight="bold">sp</tspan></text>
+<text x="0" y="52" xml:space="preserve"><tspan fill="#008000" font-weight="bold">import</tspan>&#160;<tspan fill="#0000FF" font-weight="bold">matplotlib.pyplot</tspan>&#160;<tspan fill="#008000" font-weight="bold">as</tspan>&#160;<tspan fill="#0000FF" font-weight="bold">plt</tspan></text>
+<text x="0" y="71" xml:space="preserve"><tspan fill="#008000" font-weight="bold">from</tspan>&#160;<tspan fill="#0000FF" font-weight="bold">numpy</tspan>&#160;<tspan fill="#008000" font-weight="bold">import</tspan>&#160;<tspan fill="#008000">exp</tspan></text>
+<text x="0" y="90" xml:space="preserve"></text>
+<text x="0" y="109" xml:space="preserve">x&#160;<tspan fill="#666666">=</tspan>&#160;np<tspan fill="#666666">.</tspan><tspan fill="#008000">linspace</tspan>(<tspan fill="#666666">0</tspan>,<tspan fill="#666666">10</tspan>)</text>
+<text x="0" y="128" xml:space="preserve">plt<tspan fill="#666666">.</tspan>title(<tspan fill="#BA2121">&#39;</tspan><tspan fill="#BA2121">Exponatial&#160;decay</tspan><tspan fill="#BA2121">&#39;</tspan>)</text>
+<text x="0" y="147" xml:space="preserve">plt<tspan fill="#666666">.</tspan>plot(x,&#160;<tspan fill="#008000">exp</tspan>(<tspan fill="#666666">-</tspan>x))</text>
+<text x="0" y="166" xml:space="preserve">plt<tspan fill="#666666">.</tspan>show()</text>
+<text x="0" y="185" xml:space="preserve"></text></g></svg>
